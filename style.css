@@ -1,0 +1,60 @@
+html {
+    background-color: rgb(132, 169, 236);
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(23, 75, 172);
+}
+
+img.perfil {
+    display: block;
+    margin: auto;
+    width: 300px;
+}
+
+img.navas {
+    float: right;
+    width: 350px;
+    margin-right: 40px;
+}
+
+img.idiomas {
+    display: block;
+    width: 200px;
+}
+
+h2 {
+    font-size: 29px;
+    background-color: rgb(23, 75, 172);
+    color: white;
+}
+
+h2.derecha {
+    text-align: right;
+}
+
+p {
+    font-size: 20px;
+}
+
+p.derecha {
+    text-align: right;
+}
+
+li {
+    font-size: 20px;
+}
+
+iframe.blog {
+    float: right;
+    width: 500px;
+    height: 400px;
+    margin-right: 100px;
+}
+
+iframe.corto {
+    float: right;
+    margin-right: 100px;
+}
