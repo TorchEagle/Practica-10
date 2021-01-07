@@ -8,6 +8,25 @@ h1 {
     color: rgb(23, 75, 172);
 }
 
+h2 {
+    font-size: 29px;
+    background-color: rgb(23, 75, 172);
+    color: white;
+}
+
+h3 {
+    color: rgb(23, 75, 172);  
+}
+
+h3.videocurriculum {
+    text-align: center;
+}
+
+h3.portfolio {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
 img.perfil {
     display: block;
     margin: auto;
@@ -21,40 +40,36 @@ img.navas {
 }
 
 img.idiomas {
-    display: block;
+    margin-left: 11%;
+    margin-right: 11%;
     width: 200px;
-}
-
-h2 {
-    font-size: 29px;
-    background-color: rgb(23, 75, 172);
-    color: white;
-}
-
-h2.derecha {
-    text-align: right;
 }
 
 p {
     font-size: 20px;
 }
 
-p.derecha {
-    text-align: right;
+p.centro {
+    text-align: center;
+}
+
+iframe.corto {
+    float: right;
+    margin-right: 100px;
 }
 
 li {
     font-size: 20px;
 }
 
-iframe.blog {
+object.blog {
     float: right;
     width: 500px;
     height: 400px;
     margin-right: 100px;
 }
 
-iframe.corto {
-    float: right;
-    margin-right: 100px;
+section.otros {
+    position: relative;
+    top: 250px;
 }
